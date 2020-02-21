@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582246527 source:/media/dourado/Benjamin/a_facul/2/estruturaDeDados/exercicios/ex10/main.c
+	<stdio.h>
+	<stdlib.h>
+
